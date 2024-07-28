@@ -25,7 +25,6 @@ public class QuotesService {
             new Quote("Clean code always looks like it was written by someone who care", "Robert C. Martin"),
             new Quote("Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots. So far, the Universe is winning", "Rick Cook"),
             new Quote("Any fool can write code that a computer can understand. Good programmers write code that humans can understand", "Martin Fowler"),
-            new Quote("Software is like sex: it’s better when it’s free", "Linus Torvalds"),
             new Quote("If debugging is the process of removing bugs, then programming must be the process of putting them in", "Sam Redwine"),
             new Quote("If, at first, you do not succeed, call it version 1.0", "Khayri R.R. Woulfe"),
             new Quote("Computers are fast; developers keep them slow", "Anonymous")

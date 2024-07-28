@@ -22,7 +22,7 @@ public class SwaggerConfig {
 
     public static final String TITLE = "Spring Webflux Sample App";
     public static final String LICENCE_NAME = "MIT License";
-    public static final String LICENSE_URL = "https://raw.githubusercontent.com/javed0863/webflux-log-tracing/main/LICENSE";
+    public static final String LICENSE_URL = "";
     public static final String BASIC_AUTH = "basicAuth";
     public static final String SECURITY_SCHEME_NAME = "my-api-security";
     public static final String BASIC_SECURITY_SCHEME = "basic";
